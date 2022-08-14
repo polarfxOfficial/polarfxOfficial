@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @polarfxOfficial pronouns be they/them, currently bisexual, demisexual.
+- 👋 Hi, I’m @simplireal pronouns be they/them, currently bisexual, demisexual.
 - 👀 I’m interested in programming and some art. 
 - 🌱 I’m currently learning javascript, discord.js, lua.
 - 💞️ I’m looking to collaborate on no idea.
